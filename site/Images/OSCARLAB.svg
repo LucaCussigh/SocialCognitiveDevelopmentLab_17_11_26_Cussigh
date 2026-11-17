@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1{font-family:Nunito, sans-serif;font-size:12;font-weight:600;fill:#f15a24}
+      .cls-2{fill:#000000}
+      .cls-3{fill:#0d9488}
+      .cls-4{font-family:Nunito, sans-serif;font-size:12;font-weight:bold;fill:#0d9488}
+      .cls-5{fill:#f15a24}
+    </style>
+  </defs>
+  <title>OSCARLAB.png</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <text transform="matrix(5.698 0 0 6.37 210.205 855.801)" x="0" y="0" xml:space="preserve" class="cls-1"><tspan x="0" y="0" textLength="10.836" lengthAdjust="spacingAndGlyphs">O</tspan><tspan x="10.836" y="0" textLength="55.199" lengthAdjust="spacingAndGlyphs" class="cls-2">rigins of </tspan><tspan x="66.034" y="0" textLength="8.696" lengthAdjust="spacingAndGlyphs" class="cls-3">S</tspan><tspan x="74.731" y="0" textLength="33.304" lengthAdjust="spacingAndGlyphs" class="cls-2">ocial </tspan><tspan x="108.035" y="0" textLength="9.451" lengthAdjust="spacingAndGlyphs">C</tspan><tspan x="116.997" y="0" textLength="55.926" lengthAdjust="spacingAndGlyphs" class="cls-2">ognition </tspan><tspan x="172.923" y="0" textLength="10.29" lengthAdjust="spacingAndGlyphs" class="cls-3">A</tspan><tspan x="183.213" y="0" textLength="20.007" lengthAdjust="spacingAndGlyphs" class="cls-2">nd </tspan><tspan x="203.22" y="0" textLength="9.465" lengthAdjust="spacingAndGlyphs">R</tspan><tspan x="212.518" y="0" textLength="50.641" lengthAdjust="spacingAndGlyphs" class="cls-2">elations</tspan></text>
+    <text transform="matrix(27.947 0 0 35.515 23.94 680.213)" x="0" y="0" xml:space="preserve" class="cls-4"><tspan x="0" y="0" textLength="46.139" lengthAdjust="spacingAndGlyphs">OSCAR </tspan><tspan x="46.139" y="0" textLength="20.849" lengthAdjust="spacingAndGlyphs" class="cls-5">Lab</tspan></text>
+  </g>
+</svg>
